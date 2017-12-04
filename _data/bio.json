@@ -22,7 +22,7 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "vincentluu12",
         "url": "http://linkedin.com/in/vincentluu12"
       },
       {
@@ -101,12 +101,12 @@
   ],
   "volunteer": [
     {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "USDA NRCS",
+      "website": "https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/technical/econ/stateresources/?cid=stelprdb1044074",
+      "position": "Earth Team Volunteer",
+      "startDate": "2017-06-01",
+      "endDate": "Present",
+      "summary": "Assist with the needs of the Information Technology department of USDA NRCS",
       "highlights": ""
     },
   ],
