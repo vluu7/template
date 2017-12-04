@@ -2,7 +2,7 @@
   "basics": {
     "name": "Vincent Luu",
     "label": "Student",
-    "picture": "https://vluu7.github.io/images/vincent.png",
+    "picture": "https://vluu7.github.io/images/vincent.jpg",
     "email": "vluu7@hawaii.edu",
     "phone": "808-954-9333",
     "website": "https://vluu7.github.io",
@@ -85,8 +85,7 @@
       "startDate": "2013-08-28",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
-      ]
+      "courses":
     }
   ],
   "work": [
@@ -97,22 +96,18 @@
       "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": [
-      ]
+      "highlights":
     },
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": ""
     },
   ],
   "awards": [
